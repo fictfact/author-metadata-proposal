@@ -9,5 +9,6 @@
         "twitter": "varchar",
         "facebook": "varchar",
         "linkedin": "varchar"
-    }
+    },
+    "description":"text"
 }
