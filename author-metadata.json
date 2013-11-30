@@ -1,3 +1,13 @@
 {
-  author_id:'numeric'
+    "author_id": "numeric",
+    "first_name":"varchar",
+    "middle_name":"varchar",
+    "last_name":"varchar",
+    "contact_email":"varchar",
+    "website":"varchar",
+    "social":[
+         "twitter":"varchar",
+         "facebook":"varchar",
+         "linkedin":"varchar
+     ]
 }
